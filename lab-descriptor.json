@@ -1,102 +1,100 @@
 {
-  "broadArea": {
-    "name": "Computer Science and Engineering",
-    "link": "http://vlab.co.in/broad-area-computer-science-and-engineering",
-    "code": "DESIGN"
-  },
-  "lab": "Virtual Reality Laboratory",
-  "lab_display_name": "Virtual Reality Laboratory",
-  "phase": "3-ext",
-  "collegeName": "IITD",
-  "baseUrl": "vr-iitd.vlabs.ac.in",
-  "introduction": "Virtual reality (VR) is a computer-generated simulation of an environment or experience that immerses users in a three-dimensional, interactive world. It's designed to stimulate the senses, creating an artificial environment that can be explored and interacted with as if it were real. VR typically involves the use of a headset also called Head Mounted Displays (HMD) or goggles that display a virtual environment to the user, often coupled with specialized controllers, sensors, gloves or controllers to enable interaction within that environment. This technology has applications in gaming, education, training, healthcare, and various other industries, offering immersive and often highly engaging experiences.",
-  "experiments":[
-  {
-    "name": "Introduction to Virtual Reality",
-    "short-name": "introduction-virtual-reality",
-    "repo": "https://github.com/virtual-labs/exp-introduction-virtual-reality-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "History of virtual reality",
-    "short-name": "history-virtual-reality",
-    "repo": "https://github.com/virtual-labs/exp-history-virtual-reality-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Ideation and Concept Generation",
-    "short-name": "ideation-concept-generation",
-    "repo": "https://github.com/virtual-labs/exp-ideation-concept-generation-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Demonstration of Head Mounted Display",
-    "short-name": "head-mounted-display",
-    "repo": "https://github.com/virtual-labs/exp-head-mounted-display-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Developing the 3D concepts and representations",
-    "short-name": "developing-3d-concepts",
-    "repo": "https://github.com/virtual-labs/exp-developing-3d-concepts-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Use of VR in various domains like healthcare, engineering, design, therapy etc.",
-    "short-name": "use-of-vr-domains",
-    "repo": "https://github.com/virtual-labs/exp-use-of-vr-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Modeling, mapping, texturing and rendering techniques in virtual reality",
-    "short-name": "techniques-virtual-reality",
-    "repo": "https://github.com/virtual-labs/exp-techniques-virtual-reality-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Understanding camera angles and colour in virtual reality",
-    "short-name": "camera-angles-colour",
-    "repo": "https://github.com/virtual-labs/exp-camera-angles-colour-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Lighting and animating in virtual reality",
-    "short-name": "lighting-animating-virtual-reality",
-    "repo": "https://github.com/virtual-labs/exp-lighting-animating-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
-    "name": "Creating the final project in virtual reality",
-    "short-name": "final-project-virtual-reality",
-    "repo": "https://github.com/virtual-labs/exp-final-project-virtual-reality-iitd",
-    "tag": "v1.0.0",
-    "deploy": true
-  }
-],
-  "targetAudience": {
-    "UG": [
-      ""
+    "broadArea": {
+        "name": "Design Engineering",
+        "link": "https://www.vlab.co.in/broad-area-design-engineering",
+        "code": "DESIGN"
+    },
+    "lab": "Virtual Reality Laboratory",
+    "lab_display_name": "Virtual Reality Laboratory",
+    "phase": "3-ext",
+    "collegeName": "IITD",
+    "baseUrl": "vr-iitd.vlabs.ac.in",
+    "introduction": "Virtual reality (VR) is a computer-generated simulation of an environment or experience that immerses users in a three-dimensional, interactive world. It's designed to stimulate the senses, creating an artificial environment that can be explored and interacted with as if it were real. VR typically involves the use of a headset also called Head Mounted Displays (HMD) or goggles that display a virtual environment to the user, often coupled with specialized controllers, sensors, gloves or controllers to enable interaction within that environment. This technology has applications in gaming, education, training, healthcare, and various other industries, offering immersive and often highly engaging experiences.",
+    "experiments": [
+        {
+            "name": "Introduction to Virtual Reality",
+            "short-name": "introduction-virtual-reality",
+            "repo": "https://github.com/virtual-labs/exp-introduction-virtual-reality-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "History of virtual reality",
+            "short-name": "history-virtual-reality",
+            "repo": "https://github.com/virtual-labs/exp-history-virtual-reality-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Ideation and Concept Generation",
+            "short-name": "ideation-concept-generation",
+            "repo": "https://github.com/virtual-labs/exp-ideation-concept-generation-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Demonstration of Head Mounted Display",
+            "short-name": "head-mounted-display",
+            "repo": "https://github.com/virtual-labs/exp-head-mounted-display-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Developing the 3D concepts and representations",
+            "short-name": "developing-3d-concepts",
+            "repo": "https://github.com/virtual-labs/exp-developing-3d-concepts-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Use of VR in various domains like healthcare, engineering, design, therapy etc.",
+            "short-name": "use-of-vr-domains",
+            "repo": "https://github.com/virtual-labs/exp-use-of-vr-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Modeling, mapping, texturing and rendering techniques in virtual reality",
+            "short-name": "techniques-virtual-reality",
+            "repo": "https://github.com/virtual-labs/exp-techniques-virtual-reality-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Understanding camera angles and colour in virtual reality",
+            "short-name": "camera-angles-colour",
+            "repo": "https://github.com/virtual-labs/exp-camera-angles-colour-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Lighting and animating in virtual reality",
+            "short-name": "lighting-animating-virtual-reality",
+            "repo": "https://github.com/virtual-labs/exp-lighting-animating-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Creating the final project in virtual reality",
+            "short-name": "final-project-virtual-reality",
+            "repo": "https://github.com/virtual-labs/exp-final-project-virtual-reality-iitd",
+            "tag": "v1.0.0",
+            "deploy": true
+        }
     ],
-    "PG": [
-      ""
-    ]
-  },
-  "objective": "Introduction to Virtual Reality and understanding the fundamentals of Virtual reality.<ul><li>To learn the basics of 3D graphics for creating objects and environments.</li><li>To explore and interact with the VR world from idea to conceptualization and application.</li></ul>",
-  "courseAlignment": {
-    "description": "The syllabi of this lab aligns to the following universities in India.",
-    "universities": [
-      "Osmania University Data Structures Lab",
-      "JNTU Data Structures Lab"
-    ]
-
- 
+    "targetAudience": {
+        "UG": [
+            "UG Students"
+        ],
+        "PG": [
+            ""
+        ]
+    },
+    "objective": "Introduction to Virtual Reality and understanding the fundamentals of Virtual reality.<ul><li>To learn the basics of 3D graphics for creating objects and environments.</li><li>To explore and interact with the VR world from idea to conceptualization and application.</li></ul>",
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": [
+            ""
+        ]
+    }
 }
