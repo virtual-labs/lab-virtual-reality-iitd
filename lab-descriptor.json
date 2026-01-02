@@ -15,70 +15,70 @@
             "name": "Introduction to Virtual Reality",
             "short-name": "introduction-virtual-reality",
             "repo": "https://github.com/virtual-labs/exp-introduction-virtual-reality-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "History of virtual reality",
             "short-name": "history-virtual-reality",
             "repo": "https://github.com/virtual-labs/exp-history-virtual-reality-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Ideation and Concept Generation",
             "short-name": "ideation-concept-generation",
             "repo": "https://github.com/virtual-labs/exp-ideation-concept-generation-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Demonstration of Head Mounted Display",
             "short-name": "head-mounted-display",
             "repo": "https://github.com/virtual-labs/exp-head-mounted-display-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Developing the 3D concepts and representations",
             "short-name": "developing-3d-concepts",
             "repo": "https://github.com/virtual-labs/exp-developing-3d-concepts-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Use of VR in various domains like healthcare, engineering, design, therapy etc.",
             "short-name": "use-of-vr-domains",
             "repo": "https://github.com/virtual-labs/exp-use-of-vr-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Modeling, mapping, texturing and rendering techniques in virtual reality",
             "short-name": "techniques-virtual-reality",
             "repo": "https://github.com/virtual-labs/exp-techniques-virtual-reality-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Understanding camera angles and colour in virtual reality",
             "short-name": "camera-angles-colour",
             "repo": "https://github.com/virtual-labs/exp-camera-angles-colour-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Lighting and animating in virtual reality",
             "short-name": "lighting-animating-virtual-reality",
             "repo": "https://github.com/virtual-labs/exp-lighting-animating-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Creating the final project in virtual reality",
             "short-name": "final-project-virtual-reality",
             "repo": "https://github.com/virtual-labs/exp-final-project-virtual-reality-iitd",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         }
     ],
